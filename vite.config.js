@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   root: '.', // project root (where index.html is)
-  base: '/portfolio-purvi/', // 👈 important for GitHub Pages
+  base: process.env.VERCEL ? '/' : '/portfolio-purvi/', // 👈 dynamic base
   build: {
     outDir: 'dist'
   }
