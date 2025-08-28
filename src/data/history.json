@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Data Science",
+    "organisation": "",
+    "startDate": "Internshala",
+    "endDate": "",
+    "experiences": ["March 2025"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Database Management System",
+    "organisation": "",
+    "startDate": "NPTEL",
+    "endDate": "",
+    "experiences": ["April 2025"],
+    "imageSrc": "history/microsoft.png"
+  }
+  
+]

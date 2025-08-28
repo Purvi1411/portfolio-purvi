@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Smart Hybridgrid for off grid remote areas",
+    "imageSrc": "projects/project1.png",
+    "description": "This is a project made for off grid remote areas where there is no promise to 24/7 electricity. ",
+    "skills": ["HomerPro", "tinkercad", "Matlab"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Stock Price Predictor",
+    "imageSrc": "projects/project2.png",
+    "description": "This is a project made for predicting Stock Market price flow.",
+    "skills": ["Python", "Machine Learning", "Matplotlib", "Pandas"],
+    "demo":"https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Bank Account Management",
+    "imageSrc": "projects/project3.png",
+    "description": "This is a project made for compliling all the banking needs on a single server right through one click.",
+    "skills": ["C++", "MySql", "tkinter"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
